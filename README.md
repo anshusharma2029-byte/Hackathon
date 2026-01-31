@@ -1,0 +1,1 @@
+The Campus Micro-Commerce Platform is a web application that enables students to browse and confirm access to campus-related products or services through a simple, structured user flow. The project focuses on clean frontend implementation, basic data handling, and responsive UI design, serving as a scalable MVP for campus micro-transactions.
